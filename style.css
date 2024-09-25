@@ -256,6 +256,10 @@ body {
 }
  
 /* Модальное окно */
+.cmt #small  {
+    text-transform: none;
+}
+
 .css-modal-details details .cmt {
     font-family: Verdana, sans-serif;  
     font-size: 10px;
