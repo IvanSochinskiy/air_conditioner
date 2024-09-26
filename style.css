@@ -201,6 +201,9 @@ body {
     display:inline-block;
     border-radius: 20px;
 }
+.css-modal-details  #part0 {
+    background: #6495ED;
+}
 .css-modal-details summary:hover,
 .css-modal-details summary:active,
 .css-modal-details summary:focus {
@@ -330,10 +333,13 @@ body {
         background: rgba(51, 122, 183, 0.7);
     }
 }
+#footer {
+    text-align: center;
+}
 
 
 /* НАВИГАТОР mobail */
-@media screen and (min-width:500px)   {
+/* @media screen and (min-width:500px)   {
     .btn-menu {
         visibility: hidden;
         display: none;
@@ -426,4 +432,4 @@ body {
         display: none;
     }
 }
-
+ */
