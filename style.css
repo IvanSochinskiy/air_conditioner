@@ -143,6 +143,10 @@ body {
     position: relative;
     
 }
+#emails{
+    text-decoration: none; 
+    color: #fff;
+}
 /* .list #part  {
     border: 1px, solid,  Silver;
     margin: 20px;
