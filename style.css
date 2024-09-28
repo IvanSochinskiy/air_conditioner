@@ -127,6 +127,7 @@ body {
     /* padding: -10px; */
 }
 .content h2 {
+    text-align: center;
     font-size: 18px;
     padding: 10px;
     color: #337AB7;
